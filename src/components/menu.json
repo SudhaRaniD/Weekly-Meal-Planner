@@ -1,0 +1,368 @@
+[
+    {
+      "week":[
+          {
+          "weekday":"Monday",
+          "mealtype":[
+            {
+              "mealid": 1,
+              "name": "Breakfast",
+              "calorie": "High",
+              "menuitems":[
+                  {
+                    "id": 1,
+                    "food": "Cereal"
+                  },
+                  {
+                    "id": 2,
+                    "food": "Fried eggs"
+                  }
+              ]
+            },
+            {
+              "mealid": 2,
+              "name": "Lunch",
+              "calorie": "High",
+              "menuitems":[
+                  {  
+                    "id": 1,
+                    "food": "Tomato Soup"
+                  },
+                  {
+                        "id": 2,
+                      "food": "Pasta"
+                  }
+              ]
+            },
+            {
+              "mealid": 3,
+              "name": "Dinner",
+              "calorie": "Low",
+              "menuitems":[
+                  {
+                    "id": 1,
+                    "food": "Spaghetti"
+                  },
+                  {
+                    "id": 2,
+                    "food": "Pizza"
+                  }
+              ]
+            }
+        ]
+    },
+        
+        
+        
+        {
+          "weekday":"Tuesday",
+          "mealtype":[
+            {
+              "mealid": 1,
+              "name": "Breakfast",
+              "calorie": "High",
+              "menuitems":[
+                  {
+                    "id": 1,
+                    "food": "Cereal "
+                  },
+                  {
+                    "id": 2,
+                    "food": "Toast"
+                  }
+              ]
+            },
+            {
+              "mealid": 2,
+              "name": "Lunch",
+              "calorie": "High",
+              "menuitems":[
+                  {  
+                    "id": 1,
+                    "food": "Noodles"
+                  },
+                  {
+                        "id": 2,
+                      "food": "Jacket Potato, Beans"
+                  }
+              ]
+            },
+            {
+              "mealid": 3,
+              "name": "Dinner",
+              "calorie": "Low",
+              "menuitems":[
+                  {
+                    "id": 1,
+                    "food": "Burger, French Fries"
+                  },
+                  {
+                    "id": 2,
+                    "food": "Quesadilla"
+                  }
+              ]
+            }
+        ]
+    },
+
+            {
+                "weekday":"Wednesday",
+                "mealtype":[
+                  {
+                    "mealid": 1,
+                    "name": "Breakfast",
+                    "calorie": "High",
+                    "menuitems":[
+                        {
+                          "id": 1,
+                          "food": "Breakfast Wrap"
+                        },
+                        {
+                          "id": 2,
+                          "food": "Waffle"
+                        }
+                    ]
+                  },
+                  {
+                    "mealid": 2,
+                    "name": "Lunch",
+                    "calorie": "High",
+                    "menuitems":[
+                        {  
+                          "id": 1,
+                          "food": "Cheese Pinwheel "
+                        },
+                        {
+                              "id": 2,
+                            "food": "Sandwich,Salad"
+                        }
+                    ]
+                  },
+                  {
+                    "mealid": 3,
+                    "name": "Dinner",
+                    "calorie": "Low",
+                    "menuitems":[
+                        {
+                          "id": 1,
+                          "food": "Pasta Bolognese"
+                        },
+                        {
+                          "id": 2,
+                          "food": "Salad"
+                        }
+                    ]
+                  }
+
+                ]
+            },
+
+                  {
+                    "weekday":"Thursday",
+                    "mealtype":[
+                      {
+                        "mealid": 1,
+                        "name": "Breakfast",
+                        "calorie": "High",
+                        "menuitems":[
+                            {
+                              "id": 1,
+                              "food": "French Toast"
+                            },
+                            {
+                              "id": 2,
+                              "food": "Fried eggs"
+                            }
+                        ]
+                      },
+                      {
+                        "mealid": 2,
+                        "name": "Lunch",
+                        "calorie": "High",
+                        "menuitems":[
+                            {  
+                              "id": 1,
+                              "food": "Lentil Soup"
+                            },
+                            {
+                                  "id": 2,
+                                "food": "Maccaroni Cheese"
+                            }
+                        ]
+                      },
+                      {
+                        "mealid": 3,
+                        "name": "Dinner",
+                        "calorie": "Low",
+                        "menuitems":[
+                            {
+                              "id": 1,
+                              "food": "Spaghetti"
+                            },
+                            {
+                              "id": 2,
+                              "food": "Burger"
+                            }
+                        ]
+                      }
+                    ]
+                },
+
+                      {
+                        "weekday":"Friday",
+                        "mealtype":[
+                          {
+                            "mealid": 1,
+                            "name": "Breakfast",
+                            "calorie": "High",
+                            "menuitems":[
+                                {
+                                  "id": 1,
+                                  "food": "Fruit Bowl"
+                                },
+                                {
+                                  "id": 2,
+                                  "food": "Porridge"
+                                }
+                            ]
+                          },
+                          {
+                            "mealid": 2,
+                            "name": "Lunch",
+                            "calorie": "High",
+                            "menuitems":[
+                                {  
+                                  "id": 1,
+                                  "food": "Wrap"
+                                },
+                                {
+                                      "id": 2,
+                                    "food": "Jacket Potato, Cheese"
+                                }
+                            ]
+                          },
+
+                    
+                          {
+                            "mealid": 3,
+                            "name": "Dinner",
+                            "calorie": "Low",
+                            "menuitems":[
+                                {
+                                  "id": 1,
+                                  "food": "Lasagne"
+                                },
+                                {
+                                  "id": 2,
+                                  "food": "Pizza"
+                                }
+                            ]
+                          }
+                        ]
+                    },
+                          {
+                            "weekday":"Saturday",
+                            "mealtype":[
+                              {
+                                "mealid": 1,
+                                "name": "Breakfast",
+                                "calorie": "High",
+                                "menuitems":[
+                                    {
+                                      "id": 1,
+                                      "food": "Crumpets"
+                                    },
+                                    {
+                                      "id": 2,
+                                      "food": "PotatoScones"
+                                    }
+                                ]
+                            },
+                            {
+                                "mealid": 2,
+                                "name": "Lunch",
+                                "calorie": "High",
+                                "menuitems":[
+                                    {  
+                                      "id": 1,
+                                      "food": "Sandwich"
+                                    },
+                                    {
+                                          "id": 2,
+                                        "food": "Egg Salad"
+                                    }
+                                ]
+                            },
+                            {
+                                "mealid": 3,
+                                "name": "Dinner",
+                                "calorie": "Low",
+                                "menuitems":[
+                                    {
+                                      "id": 1,
+                                      "food": "Roast Dinner"
+                                    },
+                                    {
+                                      "id": 2,
+                                      "food": "French Bread Pizza"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+
+                            {
+                                "weekday":"Sunday",
+                                "mealtype":[
+                                  {
+                                    "mealid": 1,
+                                    "name": "Breakfast",
+                                    "calorie": "High",
+                                    "menuitems":[
+                                        {
+                                          "id": 1,
+                                          "food": "Waffles"
+                                        },
+                                        {
+                                          "id": 2,
+                                          "food": "French Toast"
+                                        }
+                                    ]
+                                  },
+                                  {
+                                    "mealid": 2,
+                                    "name": "Lunch",
+                                    "calorie": "High",
+                                    "menuitems":[
+                                        {  
+                                          "id": 1,
+                                          "food": "Maccaroni Cheese"
+                                        },
+                                        {
+                                              "id": 2,
+                                            "food": "Tomato Soup"
+                                        }
+                                    ]
+                                  },
+                                  {
+                                    "mealid": 3,
+                                    "name": "Dinner",
+                                    "calorie": "Low",
+                                    "menuitems":[
+                                        {
+                                          "id": 1,
+                                          "food": "Burger"
+                                        },
+                                        {
+                                          "id": 2,
+                                          "food": "Pasta Bolognese"
+                                        }
+                                    ]
+                                  }
+                                 
+                                ]
+                            }
+        ]     
+    }
+]
+  
